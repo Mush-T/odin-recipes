@@ -1,0 +1,33 @@
+/*CSS Styling */
+
+*{
+    text-align: center;
+    background-color: #FFFDFA;
+    
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+.ingredients,
+.recipe-links{
+    list-style: none;
+    padding-left:0;
+}
+
+.carbonara
+.fried-chicken, 
+.fried-rice{
+    font-size: 20px;
+    border: 5px solid #000000;
+    border-radius: 10px;
+  
+}
+
